@@ -31,7 +31,7 @@ This project is purely educational and meant for learning about cybersecurity co
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/keylogger.git
+   git clone https://github.com/kunalnamdas/keylogger.git
    cd keylogger
    ```
 
