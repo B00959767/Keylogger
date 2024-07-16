@@ -18,7 +18,7 @@ This project is purely educational and meant for learning about cybersecurity co
 - Sends collected data securely via email.
 
 ![Keylogger Screenshot](./image1.png)
-![Keylogger Screenshot](./image2.png)
+![Keylogger Screenshot](./photo2.png)
 ![Keylogger Screenshot](./image3.png)
 
 
