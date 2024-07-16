@@ -17,6 +17,11 @@ This project is purely educational and meant for learning about cybersecurity co
 - Takes screenshots and records audio periodically.
 - Sends collected data securely via email.
 
+![Keylogger Screenshot](./image1.png)
+![Keylogger Screenshot](./image2.png)
+![Keylogger Screenshot](./image3.png)
+
+
 ## Requirements
 
 - Python 3.x
