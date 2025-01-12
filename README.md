@@ -72,7 +72,7 @@ Contributions are welcome! Feel free to open issues or pull requests.
 
  ```bash
 ### Notes:
-- Replace `your_username` with your actual GitHub username in the clone URL.
+- Replace `your_username` with your actual GitHub username in the clone URL..
 - Customize the sections as per your project's specific features and requirements.
 - Ensure to provide clear instructions on installation, usage, and configuration (especially concerning Gmail credentials).
 - Mention the ethical use disclaimer prominently to ensure responsible usage.
